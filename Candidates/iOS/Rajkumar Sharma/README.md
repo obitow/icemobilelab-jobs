@@ -1,6 +1,6 @@
 #### iOS Developer (Medior) Application:
 
-![rajkumar_sharma](resources/10195003.jpg)
+![rajkumar_sharma](10195003.jpg)
 Rajkumar Sharma
 ==
 - **Email**: _rajkumar.sharma.se@gmail.com_
@@ -19,4 +19,4 @@ Rajkumar Sharma
 - This framework drives their 40+ iOS application used by over a million customers world-wide.
 - This framework allows you to integrate punchh core features and add-ons by simply adding it to any iOS app.
 
-My complete CV can be found [here](resources/CV_Rajkumar_Sharma.pdf).
+My complete CV can be found [here](CV_Rajkumar_Sharma.pdf).
